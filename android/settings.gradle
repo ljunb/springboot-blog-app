@@ -1,0 +1,3 @@
+rootProject.name = 'springboot_blog_app'
+
+include ':app'
